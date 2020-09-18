@@ -16,6 +16,6 @@ We have come up with a platform where empowered/educated women can share their v
 ## Technology Used:
 Django(framework), Python(backend), HTML, CSS, Bootstrap(frontend)
 
-[Video Demonstration Link](https://youtu.be/oaYoL0ayWl8)
+[Click here to see video demonstration](https://youtu.be/oaYoL0ayWl8)
 
-[Presentation Link](https://docs.google.com/presentation/d/1UKDkNTMKPbeHIP_3xxDguye_7-yDpFKMP-1RW_1aRXw/edit?usp=sharing)
+[Click here to see the presentation](https://docs.google.com/presentation/d/1UKDkNTMKPbeHIP_3xxDguye_7-yDpFKMP-1RW_1aRXw/edit?usp=sharing)
