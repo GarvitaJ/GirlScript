@@ -12,3 +12,6 @@ Women in rural areas are unaware of the various opportunities already open for t
 
 ## Solution:
 We have come up with a platform where empowered/educated women can share their vast knowledge and skills with the less fortunate, allowing women to empower women.
+
+[Video Demonstration Link](https://www.google.com)
+[Presentation Link](https://docs.google.com/presentation/d/1UKDkNTMKPbeHIP_3xxDguye_7-yDpFKMP-1RW_1aRXw/edit?usp=sharing)
