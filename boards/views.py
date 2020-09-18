@@ -69,7 +69,7 @@ class PostListView(ListView):
 
         kwargs['topic'] = self.topic
         return super().get_context_data(**kwargs)
-
+#
     def get_queryset(self):
         self.topic = get_object_or_404(Topic, board__pk=self.kwargs.get('pk'), pk=self.kwargs.get('topic_pk'))
         queryset = self.topic.posts.order_by('created_at')
