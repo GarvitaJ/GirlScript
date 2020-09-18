@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class SocialtopicsConfig(AppConfig):
+class TopicsConfig(AppConfig):
     name = 'socialtopics'
