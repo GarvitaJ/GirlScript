@@ -13,6 +13,8 @@ Women in rural areas are unaware of the various opportunities already open for t
 ## Solution:
 We have come up with a platform where empowered/educated women can share their vast knowledge and skills with the less fortunate, allowing women to empower women.
 
+## Technology Used:
+Django(framework), Python(backend), HTML, CSS, Bootstrap(frontend)
 [Video Demonstration Link](https://youtu.be/oaYoL0ayWl8)
 
 [Presentation Link](https://docs.google.com/presentation/d/1UKDkNTMKPbeHIP_3xxDguye_7-yDpFKMP-1RW_1aRXw/edit?usp=sharing)
